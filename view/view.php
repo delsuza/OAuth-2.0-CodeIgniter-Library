@@ -68,7 +68,7 @@
     <?php
 } elseif (!$twitter_islogged) {
 
-    //If the user are not logged, show the connection form
+    //If the user is not logged, show the connection form
     ?>
 
 
